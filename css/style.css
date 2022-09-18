@@ -1,0 +1,35 @@
+.logo{
+    
+    display: block;
+    text-align: center;
+}
+
+
+.tablo{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+.ustsatır{
+    background-color: #eeeeee;
+    padding: 1px;
+}
+
+.wg{
+    margin: 0;
+}
+
+.card1{
+    background-color:#7EE5DA ;
+    width: 37%;
+}
+.card2{
+    background-color: #70CCC2;
+}
+.card3{
+    background-color:#62B3AA ;
+}
+
+.copy{
+    text-align: center;
+}
